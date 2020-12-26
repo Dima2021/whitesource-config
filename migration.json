@@ -1,0 +1,8 @@
+{
+   migrationMode: {
+     "changeType": "inheritance",
+     "openPR": true
+   },
+   "includeRepos": [],
+   "excludeRepos": []
+}
