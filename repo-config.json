@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://raw.githubusercontent.com/Dima2021/whitesource-config/master/whitesource.config",
     "baseBranches": [],
     "enableLicenseViolations": "true",
     "displayLicenseViolations": "true"
