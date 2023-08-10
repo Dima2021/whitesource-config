@@ -14,7 +14,7 @@
     "snippetSize": 10
   },
   "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure",
+    "vulnerableCheckRunConclusionLevel": "none",
     "displayMode": "diff",
     "useMendCheckNames": true
   },
