@@ -4,11 +4,12 @@
     "configExternalURL": "",
     "baseBranches": [],
     "enableLicenseViolations": "true",
-    "displayLicenseViolations": "true"
-  },
+    "displayLicenseViolations": "true",
+    "exploitability": "true"
+  },  
   "scanSettingsSAST": {
     "enableScan": false,
-    "scanPullRequests": false,
+    "scanPullRequests": true,
     "incrementalScan": true,
     "baseBranches": [],
     "snippetSize": 10
